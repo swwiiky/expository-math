@@ -1,4 +1,4 @@
-<h1>Mathematical Notes</h1>
+<h1>Expository</h1>
 
 This repository is a personal collection of mathematical notes, part study journal, part expository writing.
 My goal is to understand ideas deeply: not just how techniques work, but why they arise naturally and why they couldn’t really be otherwise.
